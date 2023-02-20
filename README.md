@@ -3,7 +3,7 @@
 An English Examination System (using MERN) in subject Programming Intergration Project - Information System (CO3105) at HCMUT which allows teachers and
 students create and do test. 
 
-Our Report: [Report.pdf](https://github.com/anduckhmt146/CSE_CO3105_English-Examination-System/blob/c5f88a2a00b5dab7a537db571e8825c144ea388f/Report.pdf)
+More details will be found in: [Report.pdf](https://github.com/anduckhmt146/CSE_CO3105_English-Examination-System/blob/c5f88a2a00b5dab7a537db571e8825c144ea388f/Report.pdf)
 
 # Tech Stack
 
