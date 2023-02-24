@@ -5,7 +5,7 @@ students create and do test.
 
 More details will be found in our documents: 
 
-* Requirements: [Requirements.pdf](https://github.com/anduckhmt146/CSE_CO3105_English-Examination-System/blob/c5f88a2a00b5dab7a537db571e8825c144ea388f/Requirements.pdf)
+* Requirements: [Requirements.pdf](https://github.com/anduckhmt146/CSE_CO3105_English-Examination-System/blob/928338e2f3e5052d3bd6c2267e8603a28dd49adc/Requirements.pdf)
 
 * Reports: [Report.pdf](https://github.com/anduckhmt146/CSE_CO3105_English-Examination-System/blob/c5f88a2a00b5dab7a537db571e8825c144ea388f/Report.pdf)
 
